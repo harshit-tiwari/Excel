@@ -1,0 +1,4 @@
+Formula to create VLOOKUP
+
+    =VLOOKUP(cell of key,range of table,column number of value,True/False)
+    
